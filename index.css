@@ -1,0 +1,50 @@
+
+
+
+
+#sweety{
+    background-color: rgba(73, 9, 123, 0.43);
+    width:  200px;
+    border: 1px;
+    border-bottom:solid;
+    border-color: rgba(188, 163, 206, 1);
+    margin-left: 250px;
+    text-align: center;
+    
+  
+
+}
+p{
+    width: 600px;
+    background-color: rgba(105, 111, 253, 0.42);
+    color:rgba(255, 255, 255, 1);
+}
+#p1{
+    border: 1px solid;
+    padding: 5px;
+    font-family:DM Serif Text; 
+    float: left;   
+       
+
+}
+#hey{
+    width: 200px;
+    transform: translate(0, -400px );
+    margin-left: 300px;
+   float: left;
+}
+
+
+#p2{
+    border: 1px solid;
+    padding: 4px;
+    transform: translate(160px);
+    font-family:DM Serif Text;
+}
+
+#kaka{
+    border: 5px solid;
+    background-color: rgba(105, 111, 253, 0.42);
+}
+
+

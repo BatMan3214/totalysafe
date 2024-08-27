@@ -1,0 +1,79 @@
+#p5{
+    background-color:rgba(210, 88, 0, 0.74); 
+    color:aliceblue;
+    text-align: center;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 250px;
+    font-size:40px ;
+    border: 1px ;
+    border-bottom: solid;
+    border-color:rgba(168, 70, 0, 0.64) ;
+}
+#p6{
+    background-color: rgba(210, 88, 0, 0.74);
+    color: antiquewhite;
+    width: 400px;
+    padding: 5px;
+    float: left;
+    font-family: Anton;
+     border: 1px solid;
+    border-color:rgba(153, 64, 0, 1) ;
+}
+#p7{
+    background-color: rgba(210, 88, 0, 0.74);
+    color: antiquewhite;
+    width: 400px;
+    padding: 5px;
+   transform: translateX(360px);
+    font-family: Anton;
+    border: 1px solid;
+    border-color:rgba(153, 64, 0, 1) ;
+}
+#p8{
+    background-color: rgba(210, 88, 0, 0.74);
+    color: antiquewhite;
+    width: 400px;
+    padding: 5px;
+    float: left;
+    font-family: Anton;
+    border: 1px solid;
+    border-color:rgba(153, 64, 0, 1) ;
+}
+#img{
+    
+   
+    transform: translateY(-200px);
+    transform:translateX(100px) ;    
+}
+#img3{
+    transform: translateX(50px);
+    
+}
+#img2{
+    transform: translateX(200px);
+}
+#link1{
+    background-color: rgba(255, 196, 154, 1);
+    width: 250px;
+    padding: 10px;
+}
+#kaka{
+    transform: translate(0);
+    background-color:rgba(168, 70, 0, 0.64)  ;
+    padding: 5px;
+    border: 2px solid;
+    border-color: rgba(168, 70, 0, 0.64);
+    color: rgba(152, 89, 0, 1);
+
+}
+#kaka2{
+    transform: translate(0);
+    background-color:rgba(168, 70, 0, 0.64)  ;
+    padding: 5px;
+    border: 2px solid;
+    border-color: rgba(168, 70, 0, 0.64);
+    color: rgba(152, 89, 0, 1);
+    float: left;
+
+}
