@@ -1,0 +1,20 @@
+
+#hey{
+    font-family: Nerko One;
+    margin-left: 70px;
+    transform: translate(-37px, 75px);
+  
+    color: rgba(216, 196, 255, 0.8);
+    font-size: 50px
+}
+
+#heart{
+    width: 300px;
+}
+#body{
+    background-color:rgba(57, 0, 163, 0.8) ;
+}
+#p{
+    color: rgba(216, 196, 255, 0.8);
+    transform: translate(230px, -45px);
+}
